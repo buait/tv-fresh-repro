@@ -1,3 +1,14 @@
+# 复刻说明
+
+> [!IMPORTANT]
+> **本仓库不是原始项目。**
+>
+> 原始项目：[wangrongding/tv-fresh](https://github.com/wangrongding/tv-fresh)（MIT，713 stars）
+> 本仓库是它的独立复刻与整理版本，仅用于学习、实测记录与 Agent Skill 封装；著作权与署名权归原作者。
+> 如果这篇攻略帮到你，请优先去原仓库点 star。内容如有出入，以原仓库为准。
+
+---
+
 # 小米电视去广告 + 换开源桌面完全攻略（推荐 Projectivy）
 
 > 适用于国内版 MIUI TV（实测机型 MiTV-ASTP0 / Android 9，2026-10 成功）
